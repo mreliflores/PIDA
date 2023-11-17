@@ -67,7 +67,7 @@ Si desea ver este análisis puede hacer click [aquí](#).
 | Numero de habitantes con acceso a internet | 6.305.058 |
 
 <p align="center">
-  <a href=""><img src="assets/kpiHogares.png" alt="Acceso cada 100 hogares" height="100"></a>
+  <a href=""><img src="assets/kpiHogares.png" alt="Acceso cada 100 hogares" height="250"></a>
 </p>
 
 Segun nuestro KPI era necesario aumentar el acceso al menos al 2%, esto se cumplió el 38% del tiempo.
