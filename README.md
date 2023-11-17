@@ -61,7 +61,7 @@ Si desea ver este análisis puede hacer click [aquí](#).
 
 ### Acceso
 
-| Metrica | Valor |
+| Métrica | Valor |
 | --- | ----------- |
 | Número de habitantes total | 37.484.525 |
 | Numero de habitantes con acceso a internet | 6.305.058 |
@@ -69,3 +69,5 @@ Si desea ver este análisis puede hacer click [aquí](#).
 <p align="center">
   <a href=""><img src="assets/kpiHogares.png" alt="Acceso cada 100 hogares"></a>
 </p>
+
+Segun nuestro KPI era necesario aumentar el acceso al menos al 2%, esto se cumplió el 38% del tiempo.
