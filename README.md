@@ -74,11 +74,13 @@ Segun nuestro KPI era necesario aumentar el acceso al menos al 2%, esto se cumpl
 
 ### Velocidad
 
+En los últimos tiempo un acceso a internet mas alto satisface los requerimientos actuales de productos que exhibe el internet, un ejemplo de ello son los videos de alta resolución, ello produce una demanda de internet de alta velocidad para una navegación satisfactoria en la red.
+
 <p align="center">
   <a href=""><img src="assets/velocidadesInTime_.png" alt="Velocidades trimestral" height="300"></a>
 </p>
 
-Ahh la wawa
+El historico nacional sin involucrar a la provincia de Buenos Aires demuestra que las actualización a velocidades de internet más altas son ampliamente aceptadas por la población quedando relegadas las de baja velocidad.
 
 <p align="center">
   <a href=""><img src="assets/512.png" alt="Velocidades en los extremos"></a>
@@ -86,4 +88,12 @@ Ahh la wawa
 
 <p align="center">
   <a href=""><img src="assets/30.png" alt="Velocidades en los extremos"></a>
+</p>
+
+El crecimiento de accesos a internet mayor a los 30mbps tiene algunos picos de crecimiento para los años 2017, 2018 y 2019, reduciendose el crecimiento en ese ambito para los proximos años.
+
+### Alcance de las tecnologías de acceso a internet
+
+<p align="center">
+  <a href=""><img src="assets/medioDeAcceso.png" alt="Velocidades en los extremos"></a>
 </p>
