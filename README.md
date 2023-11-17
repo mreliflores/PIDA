@@ -94,6 +94,18 @@ El crecimiento de accesos a internet mayor a los 30mbps tiene algunos picos de c
 
 ### Alcance de las tecnologías de acceso a internet
 
+Es importante conocer que provincias o también localidades del país representan una oportunidad de negocio.
+
 <p align="center">
   <a href=""><img src="assets/medioDeAcceso.png" alt="Velocidades en los extremos"></a>
 </p>
+
+Segun el análisis gráfico realizado las provincias de Catamarca y Mendoza representan una oportunidad de inversión que pudiese retribuir los esfuerzos.
+
+| Provincia | Oportunidad |
+| --- | ----------- |
+| Catamarca | Invertir en internet satelital (15000 habitantes sin acceso a internet) |
+| Mendoza | Invertir en internet movil (+200.000 habitantes sin acceso a internet movil4G y 3G) |
+
+### Tecnologías
+
