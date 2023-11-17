@@ -81,5 +81,9 @@ Segun nuestro KPI era necesario aumentar el acceso al menos al 2%, esto se cumpl
 Ahh la wawa
 
 <p align="center">
+  <a href=""><img src="assets/512.png" alt="Velocidades en los extremos"></a>
+</p>
+
+<p align="center">
   <a href=""><img src="assets/30.png" alt="Velocidades en los extremos"></a>
 </p>
