@@ -75,7 +75,7 @@ Segun nuestro KPI era necesario aumentar el acceso al menos al 2%, esto se cumpl
 ### Velocidad
 
 <p align="center">
-  <a href=""><img src="assets/velocidadesInTime.png" alt="Velocidades trimestral" height="300"></a>
+  <a href=""><img src="assets/velocidadesInTime_.png" alt="Velocidades trimestral" height="300"></a>
 </p>
 
 Ahh la wawa
