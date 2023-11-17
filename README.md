@@ -13,4 +13,4 @@ En la actualidad la Argentina  está a la vanguardia en el desarrollo de las tel
 
 ## Rol a desarrollar
 
-Hola
+Según el contexto mencionado se me encarga un estudio exahustivo del comportamiento de las telecomunicaciones para una firma de este rubro, en particular, realizar el analisis de los datos relacionados al acceso a internet de la Argentina, con el fin de orientar a la empresa en el mejoramiento de su servicio de internet y poder extender su servicio a nuevos clientes.
