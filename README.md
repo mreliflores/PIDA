@@ -54,3 +54,18 @@ siendo el GUID el identificador del dataset.
 - Representación gráfica usando matplotlib y seaborn.
 
 - Respectivas conclusiones para cada visualización.
+
+Si desea ver este análisis puede hacer click [aquí](#).
+
+## Desarrollo de los KPIS
+
+### Acceso
+
+| Metrica | Valor |
+| --- | ----------- |
+| Número de habitantes total | 37.484.525 |
+| Numero de habitantes con acceso a internet | 6.305.058 |
+
+<p align="center">
+  <a href=""><img src="assets/kpiHogares.png" alt="Acceso cada 100 hogares"></a>
+</p>
