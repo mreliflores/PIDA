@@ -156,4 +156,4 @@ Con todo ello, sus capacidades rebasan los contras y es recomendado seguir invir
 
 * Se recomienda invertir en internet satelital para cubrir el nulo acceso a las tecnologías de acceso a internet en la provincia de Catamarca
 
-* En la actualidad se ha alcanzado la meta propuesto de disponibilizar para la mayoría de accesos a internet un velocidad de al menos 30Mbps, lograndose este hecho en el ultimo trimestre del año 2021
+* En la actualidad se ha alcanzado la meta propuesta de disponibilizar para la mayoría de accesos a internet un velocidad de al menos 30Mbps, lograndose este hecho en el ultimo trimestre del año 2021
