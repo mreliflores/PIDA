@@ -84,7 +84,7 @@ $$
 Una de las metas empresariales planteadas es aumentar el acceso a internet de alta velocidad en al menos un 50%, es decir, un acceso del 50% para velocidades mayores a 30Mbps y esto lo medimos con la siguiente expresión
 
 $$
-\mathrm{Ato30mbps} = \dfrac{(\mathrm{Acceso\_a\_velocidad_{+30mbps}})}{\mathrm{acceso\_total}} \cdot 100
+\mathrm{Ato30mbps} = \dfrac{\mathrm{Acceso \_ a \_ velocidad_{+30mbps}}}{\mathrm{acceso\_total}} \cdot 100
 $$
 
 Donde:
