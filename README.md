@@ -70,9 +70,28 @@ Si desea ver este análisis puede hacer click [aquí](#).
   <a href=""><img src="assets/kpiHogares.png" alt="Acceso cada 100 hogares" height="300"></a>
 </p>
 
-Segun nuestro KPI era necesario aumentar el acceso al menos al 2%, esto se cumplió el 38% del tiempo.
+Segun nuestro KPI era necesario aumentar el acceso al menos al 2%, esto se cumplió el 38% del tiempo. Considerando que nuestro KPI era el siguiente:
+
+$$
+\mathrm{AxH} = \dfrac{(\mathrm{acceso\_actual} - \mathrm{acceso\_previo})}{\mathrm{acceso\_previo}} \cdot 100
+$$
+
+* "Acceso actual" se refiere al número de hogares con acceso a Internet después del próximo trimestre.
+* "Acceso previo" se refiere al número de hogares con acceso a Internet en el trimestre actual.
 
 ### Velocidad
+
+Una de las metas empresariales planteadas es aumentar el acceso a internet de alta velocidad en al menos un 50%, es decir, un acceso del 50% para velocidades mayores a 30Mbps y esto lo medimos con la siguiente expresión
+
+$$
+\mathrm{Ato30mbps} = \dfrac{(\mathrm{Acceso\_a\_velocidad_{+30mbps}})}{\mathrm{acceso\_total}} \cdot 100
+$$
+
+Donde:
+
+* "Acceso_a_velocidad_+30mbps" es el numero de accesos para velocidades mayores a 30Mbps.
+
+* "acceso_total" el acceso total para todos los rangos de velocidad.
 
 En los últimos tiempo un acceso a internet mas alto satisface los requerimientos actuales de productos que exhibe el internet, un ejemplo de ello son los videos de alta resolución, ello produce una demanda de internet de alta velocidad para una navegación satisfactoria en la red.
 
@@ -109,3 +128,32 @@ Segun el análisis gráfico realizado las provincias de Catamarca y Mendoza repr
 
 ### Tecnologías
 
+En el último trimestre de de 2022 los accesos a internet de repatieron de la siguiente manera
+
+<p align="center">
+  <a href=""><img src="assets/distTech.png" alt="Velocidades en los extremos"></a>
+</p>
+
+Siendo apreciable que la fibra óptica representa la segunda mejor tecnología a nivel de acceso en la nación, esto debido a sus ventajas detalladas [aquí](https://www.hp.com/cl-es/shop/tech-takes/diez-ventajas-de-tener-conexion-a-internet-por-fibra-optica) y además de tener un costo mas accesible, siendo uno de los grandes retos la puesta en marcha para la distribución de los cables de fibra optica en el país.
+
+Con todo ello, sus capacidades rebasan los contras y es recomendado seguir invirtiendo en esta tecnología, conforme a los retos en la demanda de velocidades mas altas en el futuro.
+
+
+## Stack tecnológico
+
+* Tranformación de datos: python | pandas
+* Visualización: matplotlob | seaborn
+
+## Conclusiones
+
+* El crecimiento en el sector de las telecomunicaciones, en particular, el acceso a internet a mejorado a partir del año 2017.
+
+* Se pudo medir el crecimiento porcentual de accesos a internet por hogares, el cual obtuvo un crecimiento importante a partir de año 2017, y aumentando en al menos 2% el 38% del tiempo analizado en este estudio.
+
+* Se realizaron gráficas correspondientes que permiten visualizar de una manera eficiente los cambios en la variables a estudiar
+
+* Se recomienda invertir en el sector de inter movil 4G y 3G en la provincia de Mendoza
+
+* Se recomienda invertir en internet satelital para cubrir el nulo acceso a las tecnologías de acceso a internet en la provincia de Catamarca
+
+* En la actualidad se ha alcanzado la meta propuesto de disponibilizar para la mayoría de accesos a internet un velocidad de al menos 30Mbps, lograndose este hecho en el ultimo trimestre del año 2021
