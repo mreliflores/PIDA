@@ -89,9 +89,9 @@ $$
 
 Donde:
 
-* "$\mathrm{acceso_{+30mbps}}$" es el numero de accesos para velocidades mayores a 30Mbps.
+* $\mathrm{acceso_{+30mbps}}$ es el numero de accesos para velocidades mayores a 30Mbps.
 
-* "$\mathrm{acceso_{total}}$" el acceso total para todos los rangos de velocidad.
+* $\mathrm{acceso_{total}}$ el acceso total para todos los rangos de velocidad.
 
 En los últimos tiempo un acceso a internet mas alto satisface los requerimientos actuales de productos que exhibe el internet, un ejemplo de ello son los videos de alta resolución, ello produce una demanda de internet de alta velocidad para una navegación satisfactoria en la red.
 
